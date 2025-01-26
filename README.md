@@ -4,7 +4,7 @@
 
 # Hello and welcome 👋
 
-My name is Lubeck; I'm a **Software Developer** and **Backend Engineer** with 7 years of Software Engineering and Software Development experience. I specialize in **Architecting** and **Implementing Performant Web Services**.
+My name is Lubeck; I'm a **Software Developer** and **Backend Engineer** with 6 years of Software Engineering and Software Development experience. I specialize in **Architecting** and **Implementing Performant Web Services**.
 
 Over the years, I've been lucky enough to mentor, and guide junior engineers, collocated and distributed across multiple time zones. In recent years, I've focused on using [**Go**](https://go.dev), [**Java**] and **Amazon Web Services** to build Web-based Enterprise Systems, using REST and gRPC.
 
